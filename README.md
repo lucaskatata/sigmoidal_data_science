@@ -22,7 +22,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Análise dos dados do Airbnb: ** http://bit.ly/3WQpEIG
+* **Análise dos dados da cidade de Boston do Airbnb:** http://bit.ly/3WQpEIG
 
 ---
 
